@@ -1,0 +1,6 @@
+Ctrl+Space --- used as a shortcut instead of typing long cmd
+eg. syso +Ctrl+Space -- will give System.out.println()
+-- can use for main method 
+Ctrl S -- to save
+Alt+Shift+X, J -- To execute the exe. (Need to wait for the window to show, and then press J)
+Ctrl+ / -- to comment a line
